@@ -1,6 +1,7 @@
 # tickets_back    
 Server side for ticket application
 ## Start
+To install all dependencies run ```npm install```   
 To start server on ```http://localhost:3000``` use ```node app.js``` inside project folder
 ## Additional info
 Project data stored in two files ```events.json``` and ```tickets.json``` in "database" directory
