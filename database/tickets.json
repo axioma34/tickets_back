@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "validationCode": 9031101,
+    "isValidated": 1,
+    "eventId": 1
+  },
+  {
+    "id": 2,
+    "validationCode": 9031105,
+    "isValidated": 0,
+    "eventId": 1
+  },
+  {
+    "id": 3,
+    "validationCode": 903110454,
+    "isValidated": 0,
+    "eventId": 1
+  },
+  {
+    "id": 4,
+    "validationCode": 123123321,
+    "isValidated": 1,
+    "eventId": 1
+  },
+  {
+    "id": 5,
+    "validationCode": 525235234,
+    "isValidated": 0,
+    "eventId": 2
+  },
+  {
+    "id": 6,
+    "validationCode": 66634535354,
+    "isValidated": 0,
+    "eventId": 3
+  }
+]

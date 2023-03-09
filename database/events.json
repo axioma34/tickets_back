@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Concert",
+    "location": "Alexela Kontserdimaja, Tallinn",
+    "date": "2023-03-03T07:50:08.893Z",
+    "photo": "https://media.timeout.com/images/105948176/750/562/image.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Theater",
+    "location": "Alexela Kontserdimaja, Tallinn",
+    "date": "2023-03-03T07:50:08.893Z",
+    "photo": "https://broadwaydirect.com/wp-content/uploads/2017/10/Haunted-Theater-800x450.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Stand up",
+    "location": "Alexela Kontserdimaja, Tallinn",
+    "date": "2023-03-03T07:50:08.893Z",
+    "photo": "https://occ-0-1348-2433.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABS_KnlLIbEeLoTFN_wn5pEU9rL6tWdkbUHVYC_TMQ9CpC2hYp6YoyJuPbO4BKf3XDdshj57lOFNvikaPCYBVk6ShKDx-KLM5Xydb42U4Mjd6Szxg4gaQ3G9NBi-yGJAajq9WaQ.jpg?r=abb"
+  }
+]
